@@ -168,8 +168,9 @@ class SettingsTab extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Center(
-      child: Text('설정 탭'),
+      child: Text('설정 탭 아아아'),
     );
   }
 }
-//git push test 2222
+
+//dkdkdkdkdkdkdk
